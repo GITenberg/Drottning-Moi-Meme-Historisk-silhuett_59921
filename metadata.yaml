@@ -1,5 +1,8 @@
 _repo: Drottning-Moi-Meme-Historisk-silhuett_59921
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 59921-h/images/cover.jpg
 creator:
   author:
     agent_name: Kuylenstierna-Wenster, Elisabeth
@@ -11,6 +14,8 @@ creator:
     - https://sv.wikipedia.org/wiki/Elisabeth_Kuylenstierna-Wenster
     - https://en.wikipedia.org/wiki/Elisabeth_Kuylenstierna-Wenster
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59921#Drottning-Moi-Meme-Historisk-silhuett
 gutenberg_issued: '2019-07-15'
 gutenberg_type: Text
 identifiers:
